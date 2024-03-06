@@ -1,0 +1,11 @@
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\bin\Debug\AppKasir.exe.config
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\bin\Debug\AppKasir.exe
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\bin\Debug\AppKasir.pdb
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.FormLogin.resources
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.FormMenuUtama.resources
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.exe
+C:\Users\SMKN 4 BKL\source\repos\AppKasir\obj\Debug\AppKasir.pdb
